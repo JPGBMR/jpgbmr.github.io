@@ -28,6 +28,9 @@ const PROJECTS = [
   { name: 'url-shortener',      description: 'URL shortener with QR code, history, offline-first',         stack: 'html',       pages_url: 'https://jpgbmr.github.io/url-shortener/',      url: 'https://github.com/JPGBMR/url-shortener' },
   { name: 'unit-converter',     description: 'Multi-category unit converter with 80+ units and formula',   stack: 'html',       pages_url: 'https://jpgbmr.github.io/unit-converter/',     url: 'https://github.com/JPGBMR/unit-converter' },
   { name: 'image-compressor',   description: 'Browser-side image compressor with split-view preview',      stack: 'html',       pages_url: 'https://jpgbmr.github.io/image-compressor/',   url: 'https://github.com/JPGBMR/image-compressor' },
+  { name: 'sleep-calculator',   description: 'Optimal bedtimes and wake times based on 90-min sleep cycles', stack: 'html',       pages_url: 'https://jpgbmr.github.io/sleep-calculator/',   url: 'https://github.com/JPGBMR/sleep-calculator' },
+  { name: 'color-from-image',   description: 'Extract dominant colours from any image — CSS/JSON/PNG export', stack: 'html',       pages_url: 'https://jpgbmr.github.io/color-from-image/',   url: 'https://github.com/JPGBMR/color-from-image' },
+  { name: 'fake-data-gen',      description: 'Generate names, emails, UUIDs, credit cards, dates, and more', stack: 'html',       pages_url: 'https://jpgbmr.github.io/fake-data-gen/',      url: 'https://github.com/JPGBMR/fake-data-gen' },
 
   // Python Tools (10)
   { name: 'ascii-art',          description: 'ASCII art generator',                                     stack: 'python',     pages_url: null, url: 'https://github.com/JPGBMR/ascii-art' },
