@@ -24,6 +24,7 @@ const PROJECTS = [
   { name: 'timezone-converter', description: 'World timezone converter with visual clock',              stack: 'html',       pages_url: 'https://jpgbmr.github.io/timezone-converter/', url: 'https://github.com/JPGBMR/timezone-converter' },
   { name: 'tip-calculator',     description: 'Bill splitter and tip calculator',                        stack: 'html',       pages_url: 'https://jpgbmr.github.io/tip-calculator/',     url: 'https://github.com/JPGBMR/tip-calculator' },
   { name: 'word-counter',       description: 'Real-time word/character/sentence counter',               stack: 'html',       pages_url: 'https://jpgbmr.github.io/word-counter/',       url: 'https://github.com/JPGBMR/word-counter' },
+  { name: 'password-generator', description: 'Secure password generator — crypto-safe, customizable',    stack: 'html',       pages_url: 'https://jpgbmr.github.io/password-generator/', url: 'https://github.com/JPGBMR/password-generator' },
 
   // Python Tools (10)
   { name: 'ascii-art',          description: 'ASCII art generator',                                     stack: 'python',     pages_url: null, url: 'https://github.com/JPGBMR/ascii-art' },
