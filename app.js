@@ -31,6 +31,8 @@ const PROJECTS = [
   { name: 'sleep-calculator',   description: 'Optimal bedtimes and wake times based on 90-min sleep cycles', stack: 'html',       pages_url: 'https://jpgbmr.github.io/sleep-calculator/',   url: 'https://github.com/JPGBMR/sleep-calculator' },
   { name: 'color-from-image',   description: 'Extract dominant colours from any image — CSS/JSON/PNG export', stack: 'html',       pages_url: 'https://jpgbmr.github.io/color-from-image/',   url: 'https://github.com/JPGBMR/color-from-image' },
   { name: 'fake-data-gen',      description: 'Generate names, emails, UUIDs, credit cards, dates, and more', stack: 'html',       pages_url: 'https://jpgbmr.github.io/fake-data-gen/',      url: 'https://github.com/JPGBMR/fake-data-gen' },
+  { name: 'dice-roller',        description: 'Virtual dice roller — d4 through d100, crypto-random, roll history',            stack: 'html',       pages_url: 'https://jpgbmr.github.io/dice-roller/',        url: 'https://github.com/JPGBMR/dice-roller' },
+  { name: 'url-parser',         description: 'URL decomposer — scheme, host, path, query params, fragment via native URL API', stack: 'html',       pages_url: 'https://jpgbmr.github.io/url-parser/',         url: 'https://github.com/JPGBMR/url-parser' },
 
   // Python Tools (10)
   { name: 'ascii-art',          description: 'ASCII art generator',                                     stack: 'python',     pages_url: null, url: 'https://github.com/JPGBMR/ascii-art' },
